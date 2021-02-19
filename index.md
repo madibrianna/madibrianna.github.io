@@ -12,6 +12,7 @@ content="width=device-width, initial-scale=1.0">
     max-width: 700px;
     margin: 60px auto;
     background-color: darkturquoise;
+    text-color: white;
   }
   </style>
   </head>
