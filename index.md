@@ -18,8 +18,8 @@ content="width=device-width, initial-scale=1.0">
   </head>
   
   <body>
-  <h1>Hi Jimmy</h1>
-  <p>look</p>
+  <h1 style="text-center">Hi Jimmy</h1>
+  <p style="text-center">look</p>
   </body>
   
 </html>
