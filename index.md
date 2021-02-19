@@ -11,7 +11,7 @@ content="width=device-width, initial-scale=1.0">
     line-height: 180%;
     max-width: 700px;
     margin: 60px auto;
-    background-color: periwinkle;
+    background-color: darkturquoise;
   }
   </style>
   </head>
