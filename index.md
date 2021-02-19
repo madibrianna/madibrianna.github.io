@@ -1,4 +1,3 @@
-
 <html>
   
   <head>
@@ -9,6 +8,10 @@ content="width=device-width, initial-scale=1.0">
   <style>
   body {
     font-family: "baskerville";
+    line-height: 180%;
+    max-width: 700px;
+    margin: 60px auto;
+    background-color: periwinkle;
   }
   </style>
   </head>
