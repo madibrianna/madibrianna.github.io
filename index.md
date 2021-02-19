@@ -18,8 +18,8 @@ content="width=device-width, initial-scale=1.0">
   </head>
   
   <body>
-  <h1>My Website</h1>
-  <p>hey</p>
+  <h1>Hi Jimmy</h1>
+  <p>look</p>
   </body>
   
 </html>
